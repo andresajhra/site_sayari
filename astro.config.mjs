@@ -3,6 +3,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'http://sayari-consultora.com/',
-    base: '/site-sayari',
+    site: 'http://sayari-consultora.com/'
 });
